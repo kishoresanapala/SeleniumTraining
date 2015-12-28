@@ -22,4 +22,10 @@ public class Addition {
 	public void gitTesting() {
 
 	}
+
+	public void systemTesting(){
+		
+	}
 }
+
+
