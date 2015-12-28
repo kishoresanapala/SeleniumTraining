@@ -13,4 +13,8 @@ public class Addition {
 		String name1="Jonam";
 		System.out.println(name1);
 	}
+	
+	public void kishoreGIT(){
+		
+	}
 }
