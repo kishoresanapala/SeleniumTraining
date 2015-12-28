@@ -28,6 +28,10 @@ public class Addition {
 	}
 
 	public void systemTesting(){
+		System.out.println();
+	}
+	
+	public void test1(){
 		
 	}
 }
