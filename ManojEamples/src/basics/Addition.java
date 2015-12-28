@@ -26,4 +26,8 @@ public class Addition {
 	public void durga(){
 		
 	}
+
+	public void systemTesting(){
+		
+	}
 }
