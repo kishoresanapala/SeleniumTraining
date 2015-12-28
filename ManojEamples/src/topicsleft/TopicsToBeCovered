@@ -1,0 +1,37 @@
+Topic Covered:
+- Driver object (run time polymorphism)
+- get url
+- findElement
+- id, name, linktext, xpath
+- sendkeys
+- click
+- select dropdown
+- gettext
+- getattribute
+- gettagname
+- isdisplayed
+- isenabled
+- isselected
+- get first selected option
+- get all options in select dropdown
+- F12
+-xpath
+- table handling (findElements, size)
+- Implicit wait
+- Frame
+- Alert
+
+ToDo:
+- working with multiple windows
+- quit and close
+- explicit wait
+- screenshots
+- mouse over
+- working with IE and Chrome
+
+GIT
+Framework
+Grid
+TestNG
+Execution via Maven
+- authentication window
