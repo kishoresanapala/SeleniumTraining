@@ -30,4 +30,8 @@ public class Addition {
 	public void systemTesting(){
 		
 	}
+	
+	public void test2(){
+		
+	}
 }
