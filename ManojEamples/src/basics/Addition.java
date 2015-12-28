@@ -7,15 +7,19 @@ public class Addition {
 		int a = 5, b = 6;
 		int c = a + b;
 		System.out.println("the sum=" + c);
-		
-		String name="Manoj";
+
+		String name = "Manoj";
 		System.out.println(name);
-		String name1="Jonam";
+		String name1 = "Jonam";
 		System.out.println(name1);
 		System.out.println();
 	}
-	
-	public void kishoreGIT(){
-		
+
+	public void kishoreGIT() {
+
+	}
+
+	public void gitTesting() {
+
 	}
 }
